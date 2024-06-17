@@ -1,5 +1,3 @@
 # Estructura-de-Datos
 # Diagrama UML
-![image](https://github.com/Carlos11-tech/Estructura-de-Datos/assets/166523461/ab1c0acc-7683-4c1a-a93e-2cebfea18f02)
-
-# Diagrama UML MEJORADO
+![image](https://github.com/Carlos11-tech/Estructura-de-Datos/assets/166523461/f89a9eef-9ca2-4636-81ca-3b327ed5f8e2)
